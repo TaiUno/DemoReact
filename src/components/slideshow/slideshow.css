@@ -6,7 +6,8 @@
 }
 
 .lp-slideshow {
-  width: 100%;
+  width: 75%;
+  margin: 0px auto;
 }
 
 .lp-slideshow>.container {
